@@ -17,4 +17,12 @@ npm run dev
 http://127.0.0.1:5173
 ```
 
+## 線上展示
+
+GitHub Pages 部署後可由以下網址開啟：
+
+```text
+https://mercury5096.github.io/printing-quote-prototype/
+```
+
 價格資料集中於 `src/priceConfig.js`，報價公式集中於 `src/calculateQuote.js`。
